@@ -13,3 +13,31 @@ p {
   font-family: Arial;
   font-size: 15px;
 }
+
+a:link {
+    color: Salmon; 
+    font-family: Arial;
+    font-sizeL 15px;
+    text-decoration: none;
+}
+
+a:visited {
+    color: Salmon;
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+a:active {
+    color: Salmon;
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: underline;
+}
