@@ -7,13 +7,13 @@ h1 {
 h2{
   font-family: Arial;
   font-size: 30px;
-  color: White;
+  
 }
 
 p {
   font-family: Arial;
   font-size: 20px;
-  color: White;
+
 }
 
 a:link {
@@ -41,7 +41,7 @@ a:hover {
 }
 
 body{
-  background-color: black;
+  background-color: LightGrey;
 }
 
 a:active {
