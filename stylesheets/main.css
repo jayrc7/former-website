@@ -40,10 +40,6 @@ a:hover {
     font-weight: bold;
 }
 
-body{
-  background-color: LightGrey;
-}
-
 a:active {
     color: HotPink;
     font-family: Arial;
