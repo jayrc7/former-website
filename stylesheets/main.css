@@ -1,23 +1,23 @@
 h1 {
   font-family: Arial;
-  font-size: 60px;
+  font-size: 40px;
   color: Salmon;
 }
 
 h2{
   font-family: Arial;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 p {
   font-family: Arial;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 a:link {
     color: HotPink; 
     font-family: Arial;
-    font-size: 30px;
+    font-size: 20px;
     text-decoration: none;
     font-weight: bold;
 }
@@ -25,7 +25,7 @@ a:link {
 a:visited {
     color: HotPink;
     font-family: Arial;
-    font-size: 30px;
+    font-size: 20px;
     text-decoration: none;
     font-weight: bold;
 }
@@ -33,9 +33,13 @@ a:visited {
 a:hover {
     color: red;
     font-family: Arial;
-    font-size: 30px;
+    font-size: 20px;
     text-decoration: none;
     font-weight: bold;
+}
+
+body{
+  background-color: powderblue;
 }
 
 a:active {
