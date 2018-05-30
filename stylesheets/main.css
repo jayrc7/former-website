@@ -6,38 +6,38 @@ h1 {
 
 h2{
   font-family: Arial;
-  font-size: 35px;
+  font-size: 40px;
 }
 
 p {
   font-family: Arial;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 a:link {
     color: Salmon; 
     font-family: Arial;
-    font-sizeL 20px;
+    font-sizeL 30px;
     text-decoration: none;
 }
 
 a:visited {
     color: Salmon;
     font-family: Arial;
-    font-size: 20px;
+    font-size: 30px;
     text-decoration: none;
 }
 
 a:hover {
     color: red;
     font-family: Arial;
-    font-size: 20px;
+    font-size: 30px;
     text-decoration: none;
 }
 
 a:active {
     color: Salmon;
     font-family: Arial;
-    font-size: 20px;
+    font-size: 30px;
     text-decoration: none;
 }
