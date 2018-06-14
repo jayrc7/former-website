@@ -10,6 +10,11 @@ h2{
   
 }
 
+div.one {
+  width: 200px;
+  height: 400px;
+  backgrond-color: #ee3e80;
+}
 p {
   font-family: Arial;
   font-size: 20px;
