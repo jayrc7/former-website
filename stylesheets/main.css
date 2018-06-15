@@ -5,6 +5,10 @@ h1.one{
   padding-top: 100px;
 }
 
+div.inline-block{
+  display: inline-block;
+}
+
 h1 {
   font-family: Arial;
   font-size: 35px;
