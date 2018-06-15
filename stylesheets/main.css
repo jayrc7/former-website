@@ -27,6 +27,14 @@ h1 {
   padding-left: 75px;
 }
 
+h2.loc{
+      color: white; 
+    font-family: Arial;
+    font-size: 22px;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 10px;
+}
 h2{
   font-family: Arial;`        
   font-size: 30px;
