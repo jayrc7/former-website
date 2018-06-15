@@ -7,8 +7,15 @@ h1.one{
 img.git{
   width: 40px;
   height: 40px;
+  padding-left: 75px;
+}
+
+img.rest{
+  width: 40px;
+  height: 40px;
   padding-left: 20px;
 }
+
 div.inline-block{
   display: inline-block;
 }
