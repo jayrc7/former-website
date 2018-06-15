@@ -1,3 +1,9 @@
+h1.one{
+  font-family: Arial;
+  font-size: 35px;
+  color: black;
+  top-padding; 50px;
+}
 h1 {
   font-family: Arial;
   font-size: 35px;
