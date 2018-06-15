@@ -4,6 +4,14 @@ h1.one{
   color: black;
   padding-top: 50px;
 }
+
+h1.two{
+  font-family: Arial;
+  font-size: 35px;
+  color: black;
+  padding-top: 200px;
+  padding-left: 50px;
+}
 h1 {
   font-family: Arial;
   font-size: 35px;
