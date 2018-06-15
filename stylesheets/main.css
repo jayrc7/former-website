@@ -41,37 +41,37 @@ p {
 a:link {
     color: HotPink; 
     font-family: Arial;
-    font-size: 17px;
+    font-size: 22px;
     text-decoration: none;
     font-weight: bold;
-    padding-left: 15px;
+    padding-left: 10px;
 }
 
 a:visited {
     color: HotPink;
     font-family: Arial;
-    font-size: 17px;
+    font-size: 22px;
     text-decoration: none;
     font-weight: bold;
-  padding-left: 15px;
+  padding-left: 10px;
 }
 
 a:hover {
     color: red;
     font-family: Arial;
-    font-size: 17px;
+    font-size: 22px;
     text-decoration: none;
     font-weight: bold;
-  padding-left: 15px;
+  padding-left: 10px;
 }
 
 a:active {
     color: HotPink;
     font-family: Arial;
-    font-size: 17px;
+    font-size: 22px;
     text-decoration: none;
     font-weight: bold;
-  padding-left: 15px;
+  padding-left: 10px;
 }
 ul {
     list-style-type: none;
