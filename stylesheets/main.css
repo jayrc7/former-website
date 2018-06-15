@@ -2,20 +2,21 @@ h1.one{
   font-family: Arial;
   font-size: 35px;
   color: black;
-  padding-top: 50px;
+  padding-top: 100px;
 }
 
 h1 {
   font-family: Arial;
   font-size: 35px;
   color: black;
-  padding-left: 50px;
+  padding-left: 100px;
 }
 
 h2{
   font-family: Arial;`        
   font-size: 30px;
   color: white;
+  padding-left: 100px;
 }
 
 div.one {
