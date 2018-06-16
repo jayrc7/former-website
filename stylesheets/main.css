@@ -1,3 +1,7 @@
+img.main{
+  padding-top: 10px;
+  width: 100%;
+}
 body{
   background-color:LightGrey;
 }
@@ -62,7 +66,7 @@ p {
 
 a:link {
     color: Salmon; 
-    font-family: Arial;
+    font-family: Arial;;
     font-size: 22px;
     text-decoration: none;
     font-weight: bold;
