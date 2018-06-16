@@ -5,10 +5,7 @@ img.main{
 body{
   background-color: black;
 }
-h2.bottom{
-  padding-bottom: 5px;
-  float: left;
-}
+
 h1.one{
   font-family: Arial;
   font-size: 35px;
@@ -34,7 +31,7 @@ div.inline-block{
 h1 {
   font-family: Arial;
   font-size: 35px;
-  color: black;
+  color: Salmon;
   padding-left: 45px;
 }
 
