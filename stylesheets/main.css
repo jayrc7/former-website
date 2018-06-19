@@ -1,3 +1,12 @@
+img.proj{
+  border: 5px solid #ee3e80;
+  padding: 20px;
+  width: 275px;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+}
 h1.first{
   padding-top: 75px;
 }
