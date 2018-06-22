@@ -20,19 +20,19 @@ body{
 
 h1.one{
   font-family: Arial;
-  font-size: 35px;
+  font-size: 30px;
   color: Salmon;
   padding-top: 20px;
 }
 img.git{
-  width: 40px;
-  height: 40px;
+  width: 35px;
+  height: 35px;
   padding-left: 35px;
 }
 
 img.rest{
-  width: 40px;
-  height: 40px;
+  width: 35px;
+  height: 35px;
   padding-left: 20px;
 }
 
@@ -42,7 +42,7 @@ div.inline-block{
 
 h1 {
   font-family: Arial;
-  font-size: 35px;
+  font-size: 30px;
   color: Salmon;
   padding-left: 45px;
 }
@@ -50,14 +50,14 @@ h1 {
 h2.loc{
       color: white; 
     font-family: Arial;
-    font-size: 22px;
+    font-size: 17px;
     text-decoration: none;
     font-weight: bold;
     padding-left: 10px;
 }
 h2{
   font-family: Arial;`        
-  font-size: 30px;
+  font-size: 17px;
   color: white;
   padding-left: 45px;
 }
@@ -69,7 +69,7 @@ div.one {
 }
 p {
   font-family: Arial;
-  font-size: 20px;
+  font-size: 15px;
   color: white;
   padding-left: 45px;
 
@@ -78,7 +78,7 @@ p {
 a:link {
     color: Salmon; 
     font-family: Arial;;
-    font-size: 22px;
+    font-size: 17px;
     text-decoration: none;
     font-weight: bold;
     padding-left: 10px;
@@ -87,7 +87,7 @@ a:link {
 a:visited {
     color: Salmon;
     font-family: Arial;
-    font-size: 22px;
+    font-size: 17px;
     text-decoration: none;
     font-weight: bold;
   padding-left: 10px;
@@ -96,7 +96,7 @@ a:visited {
 a:hover {
     color: white;
     font-family: Arial;
-    font-size: 22px;
+    font-size: 17px;
     text-decoration: none;
     font-weight: bold;
   padding-left: 10px;
@@ -105,7 +105,7 @@ a:hover {
 a:active {
     color: Salmon;
     font-family: Arial;
-    font-size: 22px;
+    font-size: 17px;
     text-decoration: none;
     font-weight: bold;
   padding-left: 10px;
