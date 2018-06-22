@@ -1,7 +1,7 @@
 img.proj{
   border: 5px solid #ee3e80;
   padding: 20px;
-  width: 200px;
+  width: 150px;
   border-radius: 10px;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -20,7 +20,7 @@ body{
 
 h1.one{
   font-family: Arial;
-  font-size: 25px;
+  font-size: 20px;
   color: Salmon;
   padding-top: 20px;
 }
@@ -42,7 +42,7 @@ div.inline-block{
 
 h1 {
   font-family: Arial;
-  font-size: 25px;
+  font-size: 20px;
   color: Salmon;
   padding-left: 45px;
 }
